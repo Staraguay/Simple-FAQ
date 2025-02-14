@@ -25,6 +25,15 @@ body{
     background-color: #F8FAFC;
     margin: unset;
     line-height: 2;
+    color: #030616;
+}
+a{
+    color: #4E80EE;
+}
+hr{
+
+    border-color: #D2D5DA;
+
 }
 
 .title{
